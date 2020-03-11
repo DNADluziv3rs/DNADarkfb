@@ -81,7 +81,7 @@ def siapa():
 		
 def loginSC():
 	os.system('clear')
-	print"\033[1;97mSilahkan login SC nya dulu bosque\n"
+	print"\033[1;97mSilahkan login SC nya dulu bosque\nJika tidak tau SC bisa Chat Admin Lewat\nWhatsapp : \033[1;92m+6281937555636\033[1;97m (No Call)"
 	username = raw_input("\033[1;96m[*] \033[1;97mUsername \033[1;91m: \033[1;92m")
 	password = raw_input("\033[1;96m[*] \033[1;97mPassword \033[1;91m: \033[1;92m")
 	if username =="Sumenep" and password =="Denady":
